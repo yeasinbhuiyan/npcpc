@@ -347,13 +347,22 @@
   
   }
   .countdown-NCPC-box {
+    /* width: 120%; */
+    height: 10%;
+    font-size: 40px;
+    border: none!important;
+    /* padding: 1%; */
+}
+
+/*   
+  .countdown-NCPC-box {
     width: 120%;
     height: 10%; 
     font-size: 15px; 
     border:none!important;
     
     padding:1%;
-  }
+  } */
   .countdown-box {
     width: 70%; 
     height: 14%; 
